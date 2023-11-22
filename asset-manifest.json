@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/talabat/static/css/main.4f82b7de.css",
+    "main.js": "/talabat/static/js/main.b8fc671b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/talabat/static/js/787.28cb0dcd.chunk.js",
+    "static/media/1610212179_30964.jpg": "/talabat/static/media/1610212179_30964.19975d09c139a44e6609.jpg",
+    "static/media/neworder.jpg": "/talabat/static/media/neworder.0e9825e955fce8f4532e.jpg",
+    "static/media/login-bg_20190912124102.jpg": "/talabat/static/media/login-bg_20190912124102.7ce0ed6cfc14ef411250.jpg",
+    "static/media/rsz_1rsz_unnamedd_AR.png": "/talabat/static/media/rsz_1rsz_unnamedd_AR.b277c3ac9256e014d485.png",
+    "static/media/1608943690_69304.jpg": "/talabat/static/media/1608943690_69304.e002322eec0d58cd535a.jpg",
+    "static/media/login-img_20190912115724.jpg": "/talabat/static/media/login-img_20190912115724.8319a64671dc077643c7.jpg",
+    "static/media/unnamedc_AR.jpg": "/talabat/static/media/unnamedc_AR.74d1b14671ab58a04a74.jpg",
+    "static/media/ta_Page_3.jpg": "/talabat/static/media/ta_Page_3.28974d86b618433f3362.jpg",
+    "static/media/talabatak_AR.png": "/talabat/static/media/talabatak_AR.b320c734f84af9924fe2.png",
+    "static/media/ta_Page_1.jpg": "/talabat/static/media/ta_Page_1.f1879ced3b470795ab14.jpg",
+    "static/media/unnamedb_AR.jpg": "/talabat/static/media/unnamedb_AR.f54d01e51a77fba36f00.jpg",
+    "static/media/ta_Page_4.jpg": "/talabat/static/media/ta_Page_4.fcf0e8e560bd7351ecba.jpg",
+    "static/media/ta_Page_6.jpg": "/talabat/static/media/ta_Page_6.9af2701eba795c1ca686.jpg",
+    "static/media/1600554737_88306.jpg": "/talabat/static/media/1600554737_88306.9fe5e41e01f995a5502f.jpg",
+    "static/media/ta_Page_7.jpg": "/talabat/static/media/ta_Page_7.b44d9ab6ba7b866eeed2.jpg",
+    "static/media/ta_Page_5.jpg": "/talabat/static/media/ta_Page_5.81d33e67adef2aa07de5.jpg",
+    "static/media/ta_Page_2.jpg": "/talabat/static/media/ta_Page_2.7fc132c86232e86c1433.jpg",
+    "static/media/1601635966_23931.jpg": "/talabat/static/media/1601635966_23931.72abbed88f560288034b.jpg",
+    "static/media/rsz_unnamed_AR.png": "/talabat/static/media/rsz_unnamed_AR.a9b18e8784aa4a291bbf.png",
+    "static/media/1597166586_24577.jpg": "/talabat/static/media/1597166586_24577.9423ad906ead98c21542.jpg",
+    "static/media/logoDown.png": "/talabat/static/media/logoDown.81798484f9d1e59b70c9.png",
+    "static/media/1599847322_96305.jpg": "/talabat/static/media/1599847322_96305.870c78bd4ecb5bd960c5.jpg",
+    "static/media/1599703873_55336.jpg": "/talabat/static/media/1599703873_55336.f24366e5646d94f440db.jpg",
+    "static/media/1597164583_28875.png": "/talabat/static/media/1597164583_28875.7e384ab413ac4c671aec.png",
+    "static/media/rsz_1rsz_1rsz_med_AR.jpg": "/talabat/static/media/rsz_1rsz_1rsz_med_AR.da7ececb4f11707c9af5.jpg",
+    "static/media/logo.svg": "/talabat/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/talabat/index.html",
+    "main.4f82b7de.css.map": "/talabat/static/css/main.4f82b7de.css.map",
+    "main.b8fc671b.js.map": "/talabat/static/js/main.b8fc671b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/talabat/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4f82b7de.css",
+    "static/js/main.b8fc671b.js"
+  ]
+}
